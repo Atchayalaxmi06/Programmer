@@ -4,4 +4,4 @@ if(fay%2==0):
 elif(fay%2!=0):
   print("Odd")
 else:
-  print("Invalid")
+  print("invalid")
