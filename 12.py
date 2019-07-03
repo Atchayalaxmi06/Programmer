@@ -1,0 +1,11 @@
+pa=int(input())
+rev=0
+temp=pa
+while(pa>0):
+  dig=pa%10
+  rev=rev*10+dig
+  pa=pa/10
+if(temp==rev):
+  print("yes")
+else:
+  print("no")
