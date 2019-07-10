@@ -1,6 +1,6 @@
 nu=int(input())
 su=0
-temp=num
+temp=nu
 while(temp>0):
   dig=temp%10
   su=su+dig ** 3
