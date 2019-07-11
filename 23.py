@@ -1,3 +1,3 @@
 nu=int(input())
 ma=list(map(int,input().split()))
-print(max(ma))
+print(min(ma))
