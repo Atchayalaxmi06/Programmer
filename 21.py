@@ -1,0 +1,7 @@
+nu=input()
+nu=nu.split()
+N=float(nu[0])
+A=float(nu[1])
+D=float(nu[2])
+ap=(N/2)*((2*A+((N-1)*D))
+print(int(ap))
